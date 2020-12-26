@@ -1,0 +1,10 @@
+name = "jamsite"
+type = "webpack"
+account_id = "ceb4a0c476fd1359d38a253ffc959319"
+workers_dev = false
+route = "jamsite.ipv6.design/*"
+zone_id = "8d45bb734a201ef27f4a6aeddd02836d"
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
