@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMSite</title>
+    <link>http://example.org/</link>
+    <description>Recent content on JAMSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Dec 2020 15:11:57 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dog</title>
+      <link>http://example.org/photos/dog/</link>
+      <pubDate>Sat, 26 Dec 2020 15:11:57 +0800</pubDate>
+      
+      <guid>http://example.org/photos/dog/</guid>
+      <description>##Hugo the dog
+Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&amp;rsquo;s De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
+“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>1st Page</title>
+      <link>http://example.org/first-page/</link>
+      <pubDate>Sat, 26 Dec 2020 15:04:24 +0800</pubDate>
+      
+      <guid>http://example.org/first-page/</guid>
+      <description>#First JAM Site Page
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Morbi tincidunt augue interdum velit euismod. Orci nulla pellentesque dignissim enim sit. Ultrices tincidunt arcu non sodales neque sodales ut. Felis donec et odio pellentesque. Sed cras ornare arcu dui vivamus arcu felis.</description>
+    </item>
+    
+  </channel>
+</rss>
